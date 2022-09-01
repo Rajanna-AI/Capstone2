@@ -1,2 +1,1 @@
-# Capstone2
-Smart Parking Solution for Multi Building Campus
+# Smart Parking Solution for Multi Building Campus
